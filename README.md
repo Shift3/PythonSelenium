@@ -1,5 +1,5 @@
 # PythonSelenium
-Example of Selenium + Python working on google.com
+Example of Selenium + Python working on duckduckgo.com for the QA Team!
 
 To run:
 1. Pull down repo.
